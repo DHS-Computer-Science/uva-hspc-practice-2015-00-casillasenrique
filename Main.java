@@ -1,6 +1,6 @@
 //TODO: <name>
 //TODO: <date>
-//Practice 2015 - 00: //TODO
+//Practice 2015 - 00: Number Summation
 
 public class  {
   public static void main(String[] args) {
